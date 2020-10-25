@@ -25,7 +25,7 @@
 
 ---
 [instagram]: https://instagram.com/arbaaz_ak3
-[linkedin]: www.linkedin.com/in/arbaaz-khan3
+[linkedin]: https://www.linkedin.com/in/arbaaz-khan3
 [stack-overflow]: https://stackoverflow.com/users/11330629/arbaaz
 [medium]: https://medium.com/@arbaazkhan083
 [leetcode]: https://leetcode.com/retadore
