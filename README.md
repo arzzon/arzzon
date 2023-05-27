@@ -1,11 +1,35 @@
 ### Hi there, I'm Arbaaz 👋
-
 ## I'm a Software Developer 🤖 !!!
 
-- 🌱 I’m still learning everything 
-- 📚 Looking forward to expand my knowledge on new technologies
-- 💯 Worked extensively on 🐋Docker, ⚓Kubernetes, Golang, Java, REST API and Elasticsearch.
-- 🎯 2021 Goals: Contribute to Open Source projects
+- 👨🏽‍💻 Passionate software developer with expertise in Backend Development, Golang, Python, 🐋Docker, ⚓Kubernetes and Microservices. 
+- 🎯 Committed to crafting clean and efficient code to deliver high-quality software solutions. 
+- 🌱 Open-source enthusiast and lifelong learner.
+- 📚 I believe "Learning is a lifelong journey that lights the path to success"
+- 😃 Developer @ F5 Container Ingress Services
+### Hits counter: ![Visitor Count](https://profile-counter.glitch.me/arzzon/count.svg) 🔥 
+
+![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&show_logo=true).  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzzon&show_icons=true&theme=radical&layout=donut)](https://github.com/arzzon/github-readme-stats)
+
+
+### Actively Contributions
+<a href="https://github.com/arzzon/k8s-bigip-ctlr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=k8s-bigip-ctlr" margin-right:"50px"/>
+</a>
+<a href="https://github.com/arzzon/f5-ipam-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=f5-ipam-controller" />
+</a>
+<a href="https://github.com/arzzon/f5-ctlr-agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=f5-ctlr-agent" />
+</a>
+<a href="https://github.com/arzzon/f5-cis-docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=f5-cis-docs" />
+</a>
+<a href="https://github.com/arzzon/ipam-as">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=ipam-as" />
+</a>
+
+
 
 ### Connect with me:
 
@@ -17,7 +41,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - 👉 [Creating Kubernetes Cluster From Scratch on AWS](https://medium.com/@arbaazkhan083/creating-a-kubernetes-cluster-from-scratch-in-just-few-minutes-af1a431db0e2)
@@ -30,3 +54,10 @@
 [stack-overflow]: https://stackoverflow.com/users/11330629/arbaaz
 [medium]: https://medium.com/@arbaazkhan083
 [leetcode]: https://leetcode.com/retadore
+
+
+<a href="https://github.com/arzzon.png">
+  <img align="center" src="https://github.com/arzzon.png" width="50" height="50" />
+</a>
+
+### Thank you for taking a moment to explore my profile. 💖
