@@ -55,7 +55,7 @@
 [medium]: https://medium.com/@arbaazkhan083
 [leetcode]: https://leetcode.com/retadore
 
-![Snake animation](https://github.com/arzzon/arzzon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arzzon/arzzon/blob/output/github-contribution-grid-snake.gif)
 
 <a href="https://github.com/arzzon.png">
   <img align="center" src="https://github.com/arzzon.png" width="50" height="50" />
