@@ -8,8 +8,9 @@
 - 😃 Developer @ F5 Container Ingress Services
 ### Hits counter: ![Visitor Count](https://profile-counter.glitch.me/arzzon/count.svg) 🔥 
 
-![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&show_logo=true).  
+![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&rank_icon=github)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzzon&show_icons=true&theme=radical&layout=donut)](https://github.com/arzzon/github-readme-stats)
+![Snake animation](https://github.com/arzzon/arzzon/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Actively Contributions
