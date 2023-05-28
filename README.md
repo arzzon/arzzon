@@ -10,7 +10,6 @@
 
 ![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&rank_icon=github)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzzon&show_icons=true&theme=radical&layout=donut)](https://github.com/arzzon/github-readme-stats)
-![Snake animation](https://github.com/arzzon/arzzon/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Actively Contributions
@@ -56,6 +55,7 @@
 [medium]: https://medium.com/@arbaazkhan083
 [leetcode]: https://leetcode.com/retadore
 
+![Snake animation](https://github.com/arzzon/arzzon/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/arzzon.png">
   <img align="center" src="https://github.com/arzzon.png" width="50" height="50" />
