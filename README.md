@@ -10,7 +10,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&rank_icon=github)  
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzzon&show_icons=true&theme=radical&layout=donut)](https://github.com/arzzon/github-readme-stats)
-[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=11330629)](https://github.com/kurt-liao/so-stats)
+<!-- [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=11330629)](https://github.com/kurt-liao/so-stats) -->
 
 ### Active Contributions
 <a href="https://github.com/arzzon/k8s-bigip-ctlr">
@@ -34,8 +34,10 @@
 ### 📕 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- 👉 [Creating Kubernetes Cluster From Scratch on AWS](https://medium.com/@arbaazkhan083/creating-a-kubernetes-cluster-from-scratch-in-just-few-minutes-af1a431db0e2)
+- 👉 [Upgrade Your Go project to next major version [Part-I]](https://medium.com/@arbaazkhan083/upgrade-your-go-project-to-next-major-version-part-i-556f086b2b9b)
+- 👉 [Upgrade Your Go project to next major version [Part-II]](https://medium.com/@arbaazkhan083/upgrade-your-go-project-to-next-major-version-part-ii-5ba27b812c1)
 - 👉 [Building Kubernetes Operator Using Kubebuilder](https://medium.com/@arbaazkhan083/building-kubernetes-operator-using-kubebuilder-bb52fbd8238)
+- 👉 [Creating Kubernetes Cluster From Scratch on AWS](https://medium.com/@arbaazkhan083/creating-a-kubernetes-cluster-from-scratch-in-just-few-minutes-af1a431db0e2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
