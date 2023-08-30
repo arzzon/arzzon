@@ -7,11 +7,11 @@
 - 📚 I believe "Learning is a lifelong journey that lights the path to success"
 - 😃 Developer @ F5 Container Ingress Services
 ### Hits counter: ![Visitor Count](https://profile-counter.glitch.me/arzzon/count.svg) 🔥 
-
+<!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arzzon&show_icons=true&theme=radical&rank_icon=github)  
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzzon&show_icons=true&theme=radical&layout=donut)](https://github.com/arzzon/github-readme-stats)
 <!-- [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=11330629)](https://github.com/kurt-liao/so-stats) -->
-
+<!--
 ### Active Contributions
 <a href="https://github.com/arzzon/k8s-bigip-ctlr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=k8s-bigip-ctlr" margin-right:"50px"/>
@@ -28,7 +28,7 @@
 <a href="https://github.com/arzzon/ipam-as">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzzon&repo=ipam-as" />
 </a>
-
+-->
 <br>
 
 ### 📕 Blogs
