@@ -18,13 +18,33 @@ Currently, I'm contributing to the [F5 Container Ingress Services](https://githu
 
 ### 🔧 Tech Stack
 
+
+**Languages:**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00B386?style=flat&logo=gin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & APIs:**  
+![Beego](https://img.shields.io/badge/Beego-00A650?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00B386?style=flat&logo=gin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-1A73E8?style=flat&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat)
+
+**DevOps & Infrastructure:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=RedHatOpenShift&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+
+**Cloud Platforms:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)
 
 ---
 
