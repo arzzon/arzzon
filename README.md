@@ -97,7 +97,7 @@ I often share insights and tutorials on software development:
 - 📧 [Email](mailto:arbaazkhan083@gmail.com)
 - 📚 [stack-overflow](https://stackoverflow.com/users/11330629/arbaaz)
 - ✍️ [medium](https://medium.com/@arbaazkhan083)
-- 🐦 [Twitter](https://twitter.com/arzzon)
+- 🐦 [Twitter](https://twitter.com/arbaaz_111)
 
 ---
 
